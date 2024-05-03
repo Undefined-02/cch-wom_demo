@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"2_DF_Actor7","characterIndex":6,"characterName":"2_DF_Actor","classId":1,"equips":[0,1,0,null,null,null,0,1],"faceIndex":6,"faceName":"DF_Actor1","traits":[{"code":52,"dataId":1,"value":1},{"code":52,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1},{"code":52,"dataId":4,"value":1},{"code":52,"dataId":5,"value":1},{"code":52,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Void Dweller","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"isaac-fight","characterIndex":0,"characterName":"isaac-walk","classId":2,"equips":[2,7,null,null,null,null,3,7],"faceIndex":0,"faceName":"isaac-face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Isaac","nickname":"Father of Communism","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"science!","classId":3,"equips":[0,0],"faceIndex":0,"faceName":"scientist2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Zbuuf","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
